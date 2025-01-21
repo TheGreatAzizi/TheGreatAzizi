@@ -12,17 +12,13 @@
 
 ---
 
-🛠️ My Skills & Tech Stack:
+### 🛠️ My Skills & Tech Stack:
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/SEO-%2300C853.svg?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> </div>
 
 ---
 
-### 🔥 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 🎵 My Spotify Playlists:
+<div align="center"> <h3>🎧 Persian Rap</h3> <a href="https://open.spotify.com/playlist/3I3YUF9vGS6eEHYcHwdedG?si=8c7bd3782fbe4bb6" target="_blank"> <img src="https://spotify-generate-preview.vercel.app/api/playlist/3I3YUF9vGS6eEHYcHwdedG" alt="Persian Rap Playlist" width="300" /> </a> <h3>🎧 English</h3> <a href="https://open.spotify.com/playlist/0Nl7zS2bSmFwKXaXnntdtE?si=70455f7382594d51" target="_blank"> <img src="https://spotify-generate-preview.vercel.app/api/playlist/0Nl7zS2bSmFwKXaXnntdtE" alt="English Playlist" width="300" /> </a> <h3>🎧 Japanese</h3> <a href="https://open.spotify.com/playlist/7MmNtleFX686pu4AEmLzvU?si=69fcab70966d4473" target="_blank"> <img src="https://spotify-generate-preview.vercel.app/api/playlist/7MmNtleFX686pu4AEmLzvU" alt="Japanese Playlist" width="300" /> </a> </div>
 
 ---
 
