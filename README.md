@@ -7,9 +7,8 @@
 
 ### 🌟 About Me:
 - 👨‍💻 I’m a passionate software developer and tech enthusiast.
-- 🌱 Currently learning: **[Your learning topics, e.g., Next.js, AI, etc.]**
-- 💬 Feel free to ask me about **[Your areas of expertise]**.
-- 📫 How to reach me: **[ُTELEGRAM PV](https://t.me/the_azizi)**
+- 🌱 Currently learning: **C#**
+- 📫 How to reach me: **[TELEGRAM PV](https://t.me/the_azizi)**
 
 ---
 
