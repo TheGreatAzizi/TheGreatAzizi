@@ -18,7 +18,7 @@
 ---
 
 ### 🎵 My Spotify Playlists:
-<div align="center"> <h3>🎧 Persian Rap</h3> <a href="https://open.spotify.com/playlist/3I3YUF9vGS6eEHYcHwdedG?si=8c7bd3782fbe4bb6" target="_blank"> <img src="https://i.scdn.co/image/ab67616d0000b2732d2e2f2d2f3f2f2f2d3e2f3e" alt="Persian Rap Playlist" width="300" /> </a> <h3>🎧 English</h3> <a href="https://open.spotify.com/playlist/0Nl7zS2bSmFwKXaXnntdtE?si=70455f7382594d51" target="_blank"> <img src="https://i.scdn.co/image/ab67616d0000b2733e2d2f2f2e2e2f3e3d3e2d3e" alt="English Playlist" width="300" /> </a> <h3>🎧 Japanese</h3> <a href="https://open.spotify.com/playlist/7MmNtleFX686pu4AEmLzvU?si=69fcab70966d4473" target="_blank"> <img src="https://i.scdn.co/image/ab67616d0000b2734e2f3d3e2e2f4f3e3d4d3e2f" alt="Japanese Playlist" width="300" /> </a> </div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31k7wglomvaamqkl53trtpascn24)
 
 ---
 
