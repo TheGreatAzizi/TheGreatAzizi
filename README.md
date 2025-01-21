@@ -23,17 +23,7 @@
 ---
 
 ### 📢 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center"> <a href="https://t.me/your-telegram-username" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://twitter.com/your-twitter-username" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /> </a> <a href="https://mastodon.social/@your-mastodon-username" target="_blank"> <img src="https://img.shields.io/badge/Mastodon-%23263D74.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /> </a> </div>
 
 ---
 
