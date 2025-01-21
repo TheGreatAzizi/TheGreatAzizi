@@ -23,7 +23,7 @@
 ---
 
 ### 📢 Connect with Me:
-<div align="center"> <a href="https://t.me/your-telegram-username" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://twitter.com/your-twitter-username" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /> </a> <a href="https://mastodon.social/@your-mastodon-username" target="_blank"> <img src="https://img.shields.io/badge/Mastodon-%23263D74.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /> </a> </div>
+<div align="center"> <a href="https://t.me/luluch_code" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a> <a href="https://x.com/the_azzi" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /> </a> <a href="https://mas.to/@luluch_code" target="_blank"> <img src="https://img.shields.io/badge/Mastodon-%23263D74.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /> </a> </div>
 
 ---
 
