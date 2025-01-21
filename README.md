@@ -7,7 +7,7 @@
 
 ### 🌟 About Me:
 - 👨‍💻 I’m a passionate software developer and tech enthusiast.
-- 🌱 Currently learning: **C#**
+- 🌱 Currently learning: **C# & Rust**
 - 📫 How to reach me: **[TELEGRAM PV](https://t.me/the_azizi)**
 
 ---
