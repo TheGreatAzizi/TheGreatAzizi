@@ -27,6 +27,14 @@
 
 ---
 
+## 🛸 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheGreatAzizi&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatAzizi&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+</div>
+
+---
+
 <div align="center">
   <h3>✨ Keep coding, keep growing! ✨</h3>
 </div>
