@@ -35,5 +35,8 @@
 
 ---
 <div align="center">
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=metantesa.metantesan&"  />
+</div>
   <h3>✨ Keep coding, keep growing! ✨</h3>
 </div>
