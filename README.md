@@ -1,4 +1,5 @@
 <h1 align="center"> Hello there! Welcome to my GitHub profile! 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=440&height=45&lines=Mohammad+Mahdi+Azizi" alt="Typing SVG" />
 <p align="center">
     <img src="./rurouni_kenshin_6.gif"/>
 </p>
