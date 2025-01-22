@@ -8,7 +8,7 @@
 ### 🌟 About Me:
 - 👨‍💻 I’m a passionate software developer and tech enthusiast.
 - 🌱 Currently learning: **C#**
-- 📫 How to reach me: **[TELEGRAM PV](https://t.me/the_azizi)**
+- 📫 How to reach me: **[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram&style=for-the-badge)](https://t.me/luluch_code)**
 
 ---
 
@@ -21,8 +21,6 @@
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31k7wglomvaamqkl53trtpascn24)
 
 ---
-
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram&style=for-the-badge)](https://t.me/luluch_code)
 
 ## 🛸 GitHub Stats:
 <div align="center">
