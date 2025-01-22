@@ -18,9 +18,8 @@
 ---
 
 ### 🎵 Spotify Recently Played:
-<div align="center">
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31k7wglomvaamqkl53trtpascn24)
-</div>
+
 
 ---
 
