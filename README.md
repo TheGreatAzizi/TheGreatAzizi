@@ -3,6 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=800&height=45&lines=Our+human+essence+lies+in+our+ability+to+reason;The+world+cannot+be+changed+with+pretty+words+alone" alt="Typing SVG" />
 </p>
 
+![01](./rurouni_kenshin_6.gif)
+
 ---
 
 ### 🌟 About Me:
