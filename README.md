@@ -8,7 +8,7 @@
 ### 🌟 About Me:
 - 👨‍💻 I’m a passionate software developer and tech enthusiast.
 - 🌱 Currently learning: **C#**
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram&style=for-the-badge)](https://t.me/luluch_code)
+- 📫 How to reach me: ![Telegram Pv](https://t.me/luluch_code)
 
 ---
 
