@@ -39,5 +39,5 @@
 
 ---
 <div align="center">
-  <h1>✨ Keep coding, keep growing!✨</h3>
+  <h4>✨ Keep coding, keep growing!✨</h4>
 </div>
