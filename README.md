@@ -28,8 +28,8 @@
 
 ## 🛸 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheGreatAzizi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGreatAzizi&theme=codeSTACKr&hide_border=false" height="150" alt=""  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheGreatAzizi&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatAzizi&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </div>
 
 ---
