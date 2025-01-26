@@ -35,12 +35,11 @@
 ---
 
 ## 📌 in the future:
-|name|FFmpeg included|RPI Camera support|
-|----|---------------|------------------|
-|bluenviron/mediamtx:latest|:x:|:x:|
-|bluenviron/mediamtx:latest-ffmpeg|:heavy_check_mark:|:x:|
-|bluenviron/mediamtx:latest-rpi|:x:|:heavy_check_mark:|
-|bluenviron/mediamtx:latest-ffmpeg-rpi|:heavy_check_mark:|:heavy_check_mark:|
+|name|preparation|
+|----|---------------|
+|YouTube videos|:heavy_check_mark:|
+|(20anime) website upgrade|:x:|
+
 
 ---
 
