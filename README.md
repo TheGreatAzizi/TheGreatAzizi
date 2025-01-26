@@ -20,7 +20,7 @@
 
 ---
 
-### 🎵 Spotify Recently Played:
+### 🎧 Spotify Recently Played:
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31k7wglomvaamqkl53trtpascn24)
 
 
@@ -31,6 +31,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TheGreatAzizi&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatAzizi&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </div>
+
+---
+
+## 📌 in the future:
+|name|FFmpeg included|RPI Camera support|
+|----|---------------|------------------|
+|bluenviron/mediamtx:latest|:x:|:x:|
+|bluenviron/mediamtx:latest-ffmpeg|:heavy_check_mark:|:x:|
+|bluenviron/mediamtx:latest-rpi|:x:|:heavy_check_mark:|
+|bluenviron/mediamtx:latest-ffmpeg-rpi|:heavy_check_mark:|:heavy_check_mark:|
 
 ---
 
