@@ -20,9 +20,10 @@
 
 ---
 
-### 🎧 Spotify Recently Played:
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31k7wglomvaamqkl53trtpascn24)
-
+### 🎧 Spotify:
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31k7wglomvaamqkl53trtpascn24">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31k7wglomvaamqkl53trtpascn24" alt="Data Card for Spotify">
+</a>
 
 ---
 
