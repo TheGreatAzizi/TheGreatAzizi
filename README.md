@@ -11,7 +11,7 @@
 ### 🌟 About Me:
 - 👨‍💻 I’m a passionate software developer and tech enthusiast.
 - 🌱 Currently learning: **C#**
-- 📫 How to reach me: [Telegram Pv](https://t.me/The_azizi)
+- 📫 How to reach me: [Telegram DM](https://t.me/The_azizi)
 
 ---
 
