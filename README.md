@@ -39,7 +39,6 @@
 |name|preparation|
 |----|---------------|
 |YouTube videos|:heavy_check_mark:|
-|(20anime) website upgrade|:x:|
 
 
 ---
