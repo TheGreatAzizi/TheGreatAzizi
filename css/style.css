@@ -259,6 +259,22 @@ main {
     color: var(--text-color);
 }
 
+/* ===== EMBEDDED BANNER STYLES ===== */
+.daramet-embed-banner-container {
+    /* ایجاد فاصله عمودی مناسب */
+    margin: 2.5rem 0; 
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+/* استایل مخصوص بنر در داخل پست برای فاصله بیشتر از محتوای اصلی */
+.post-banner {
+    margin-bottom: 2.5rem;
+}
+
 /* ===== CODE BLOCKS (Prism.js) ===== */
 pre[class*="language-"] {
     padding: 1.5em;
