@@ -1,5 +1,5 @@
 // ===== CORE BUSINESS LOGIC for Homepage =====
-// نسخه جدید با پشتیبانی از دسته‌بندی
+// نسخه جدید با قابلیت تزریق داینامیک بنر تبلیغاتی
 
 document.addEventListener('DOMContentLoaded', () => {
     const postsContainer = document.getElementById('posts-container');
@@ -26,11 +26,11 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        posts.forEach(post => {
+        posts.forEach((post, index) => {
             const postCard = document.createElement('div');
             postCard.classList.add('post-card');
 
-            // ساخت کارت پست با فیلد دسته‌بندی
+            // ساخت کارت پست
             postCard.innerHTML = `
                 <a href="post.html?id=${post.id}">
                     <img src="${post.image}" alt="${post.title}" class="post-card-image">
@@ -48,6 +48,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
             postsContainer.appendChild(postCard);
+
+            // ===== BANNER INJECTION LOGIC =====
+            // بعد از پست اول (index === 0)، بنر را اضافه کن
+            if (index === 0) {
+                const bannerContainer = document.createElement('div');
+                bannerContainer.className = 'daramet-embed-banner-container';
+                bannerContainer.innerHTML = `
+                    <div class="daramet-embed-banner" id="1232">
+                        <script src="https://daramet.com/embed/banner.js" async><\/script>
+                    </div>
+                `;
+                postsContainer.appendChild(bannerContainer);
+            }
         });
     }
 
