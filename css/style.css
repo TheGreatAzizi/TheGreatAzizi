@@ -243,7 +243,11 @@ main {
 
 /* ===== COMMENTS SECTION ===== */
 .comments-section {
-    margin-top: 4rem;
+    /* 
+     * افزایش فاصله از پست بالایی برای ایجاد فضای تنفس بیشتر.
+     * مقدار قبلی 4rem بود، ما آن را به 6rem افزایش می‌دهیم.
+     */
+    margin-top: 6rem; 
     padding-top: 2rem;
     border-top: 1px solid var(--border-color);
 }
