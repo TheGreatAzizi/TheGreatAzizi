@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         } catch (error) {
             console.error("خطا در بارگذاری پست:", error);
-            document.title = "پست یافت نشد | وبلاگ تحلیلی من";
+            document.title = "پست یافت نشد | TheGreatAzizi";
             postContentContainer.innerHTML = `<p class="error">خطا: پست مورد نظر یافت نشد. <a href="index.html">بازگشت به صفحه اصلی</a></p>`;
         }
     }
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const imageUrl = new URL(post.image, window.location.href).href;
 
         // تنظیم عنوان صفحه
-        document.title = `${post.title} | وبلاگ تحلیلی من`;
+        document.title = `${post.title} | TheGreatAzizi`;
         
         // تنظیم تگ‌های اصلی سئو
         document.getElementById('meta-description').setAttribute('content', post.summary);
