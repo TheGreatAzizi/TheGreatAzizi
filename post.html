@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!-- Title will be set dynamically -->
+    <!-- Title will be set dynamically by post.js to match the post's title -->
     <title>TheGreatAzizi</title> 
 
     <!-- SEO & Social Media Tags (will be populated by JS) -->
@@ -35,9 +35,35 @@
     <main>
         <div class="container">
             <article id="post-content" class="post-full">
-                <!-- محتوای پست توسط جاوا اسکریپت در اینجا بارگذاری می‌شود -->
+                <!-- Post content will be loaded here by post.js -->
                 <div class="loading">درحال بارگذاری پست...</div>
             </article>
+
+            <!-- ===== GISCUS COMMENT SECTION (Updated) ===== -->
+            <section class="comments-section">
+                <h2 class="comments-title">نظرات</h2>
+                <div id="giscus-container">
+                    <!-- Your provided Giscus script with title mapping -->
+                    <script src="https://giscus.app/client.js"
+                            data-repo="TheGreatAzizi/TheGreatAzizi"
+                            data-repo-id="R_kgDONtkONg"
+                            data-category="Announcements"
+                            data-category-id="DIC_kwDONtkONs4Ctp34"
+                            data-mapping="title"
+                            data-strict="0"
+                            data-reactions-enabled="1"
+                            data-emit-metadata="0"
+                            data-input-position="top"
+                            data-theme="transparent_dark"
+                            data-lang="fa"
+                            data-loading="lazy"
+                            crossorigin="anonymous"
+                            async>
+                    </script>
+                </div>
+            </section>
+            <!-- ==================================== -->
+            
         </div>
     </main>
 
