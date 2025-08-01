@@ -241,6 +241,20 @@ main {
     border-color: var(--primary-color);
 }
 
+/* ===== COMMENTS SECTION ===== */
+.comments-section {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.comments-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--text-color);
+}
+
 /* ===== CODE BLOCKS (Prism.js) ===== */
 pre[class*="language-"] {
     padding: 1.5em;
