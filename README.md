@@ -51,8 +51,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatAzizi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatAzizi&layout=compact&theme=radical)
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheGreatAzizi&theme=tokyonight"
+  width="100%"
+  alt="Profile Details"
+/>
 
 ---
 
